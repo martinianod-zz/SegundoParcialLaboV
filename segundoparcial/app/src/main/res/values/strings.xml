@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">segundo parcial</string>
+    <string-array name="spinner_array">
+        <item>Supervisor</item>
+        <item>Construction Manager</item>
+        <item>Project Manager</item>
+    </string-array>
+</resources>
